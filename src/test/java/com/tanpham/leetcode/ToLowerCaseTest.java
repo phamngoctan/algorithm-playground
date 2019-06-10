@@ -12,4 +12,9 @@ public class ToLowerCaseTest {
         assertThat(ToLowerCase.proceed("Hello"), equalTo("hello"));
     }
     
+    @Test
+    public void allCharShouldBeInLowerCase_2() {
+        assertThat(ToLowerCase.proceed("PiTAs"), equalTo("pitas"));
+    }
+    
 }

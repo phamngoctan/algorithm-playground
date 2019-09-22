@@ -10,7 +10,7 @@ import org.junit.Test;
 public class ArraysShiftTest {
 
 	@Test
-	public void shiftRight_indexOutBoundIfItBreaksTheSize() {
+	public void shiftRight_indexOutBoundIfItBreaksTheSize() throws ValidationException {
 		int[] inputArray = new int[10];
 		inputArray[0] = 0;
 		inputArray[1] = 1;

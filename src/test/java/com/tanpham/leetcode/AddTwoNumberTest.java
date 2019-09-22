@@ -5,6 +5,9 @@ import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
 
+import com.tanpham.algorithm.AddTwoNumber;
+import com.tanpham.algorithm.ListNode;
+
 public class AddTwoNumberTest {
     
     @Test

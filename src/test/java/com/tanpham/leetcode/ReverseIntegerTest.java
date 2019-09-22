@@ -5,6 +5,8 @@ import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
 
+import com.tanpham.algorithm.ReverseInteger;
+
 public class ReverseIntegerTest {
     @Test
     public void test_1() {

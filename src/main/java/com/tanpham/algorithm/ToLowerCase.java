@@ -1,4 +1,4 @@
-package com.tanpham.leetcode;
+package com.tanpham.algorithm;
 
 public class ToLowerCase {
 

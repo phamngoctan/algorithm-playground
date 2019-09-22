@@ -1,3 +1,3 @@
-# leetcode
+# Algorithm playground
 
-Playground for leetcode
+Playground for algorithm

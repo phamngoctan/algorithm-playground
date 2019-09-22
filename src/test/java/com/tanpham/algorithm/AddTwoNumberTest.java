@@ -1,4 +1,4 @@
-package com.tanpham.leetcode;
+package com.tanpham.algorithm;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.junit.Assert.assertThat;
